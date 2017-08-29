@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Architect", "Architect\Architect.vbproj", "{A8AB124A-4DD9-400B-975A-27F8BB0D6E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8AB124A-4DD9-400B-975A-27F8BB0D6E0F}.Debug|x86.ActiveCfg = Debug|x86
+		{A8AB124A-4DD9-400B-975A-27F8BB0D6E0F}.Debug|x86.Build.0 = Debug|x86
+		{A8AB124A-4DD9-400B-975A-27F8BB0D6E0F}.Release|x86.ActiveCfg = Release|x86
+		{A8AB124A-4DD9-400B-975A-27F8BB0D6E0F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
