@@ -33,14 +33,14 @@
   * When welding models does not recalculate common origin.
 
 # Screenshots
-![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_42_00-GitHub.png)
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30-02_42_00-GitHub.png)
 
-![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_43_31-GitHub.png)
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30-02_43_31-GitHub.png)
 
-![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_44_56-.png)
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30-02_44_56-.png)
 
-![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_47_55-GitHub.png)
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30-02_47_55-GitHub.png)
 
-![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_50_06-GitHub.png)
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30-02_50_06-GitHub.png)
 
 ![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/arch001.png)
