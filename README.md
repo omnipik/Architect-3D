@@ -26,9 +26,21 @@
   * Continuous model spin
   * Switch controlled Translate >X,Y,Z
   * Switch controlled Rotation  >X,Y,Z
-  
+
 * Every project is a work in progress Architect 3D is a working program with few minor Glitches:
   * Rotation of models is limited to position, does not always rotate in place
    Models rotate around a common center vector, orbits around world origin.
   * When welding models does not recalculate common origin.
-  
+
+# Screenshots
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_42_00-GitHub.png)
+
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_43_31-GitHub.png)
+
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_44_56-.png)
+
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_47_55-GitHub.png)
+
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/2017-08-30 02_50_06-GitHub.png)
+
+![screenshot](https://raw.githubusercontent.com/omnipik/Architect-3D/master/img/arch001.png)
